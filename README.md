@@ -25,7 +25,6 @@ If you want to use OAuth authentication you have to set the redirect_uri of your
 	<category android:name="android.intent.category.BROWSABLE"></category>
 	<data android:host="---your redirect host---" android:scheme="---your redirect scheme"></data>
 </intent-filter>
-
 ```
 
 2. Extend the activity, where you want to authorize the user with `EyeemConnect`.
@@ -49,7 +48,6 @@ query.secondId = 1013;
 `https://www.eyeem.com/api/v2/albums/17?detailed=1&includePhotos=1&numPhotos=2&photoDetails=1&includeContributors=1&includeLikers=1`
 
 ``` java
-
 EyeemAlbumsQuery query = new EyeemAlbumsQuery();
 query.firstId = 17;
 query.setDetailed(true);
@@ -58,7 +56,6 @@ query.photoNumber = 2;
 query.setPhotoDetails(true);       
 query.setContributors(true);
 query.setLikers(true);
-        
 ``` 
 
 ###Request
@@ -70,11 +67,9 @@ To get the query object into a ArrayList use  `transfromQuery()`.
 	public HashMap<String, Object> getRequest( ArrayList <NameValuePair> parameters)
 	public HashMap<String, Object> getRequest( ArrayList <NameValuePair> parameters, EyeemPagination pagination)
 	public HashMap<String, Object> putRequest(ArrayList <NameValuePair>  parameters)
-	public HashMap<String, Object> postRequest(ArrayList <NameValuePair>  parameters)
-	
-                       
+	public HashMap<String, Object> postRequest(ArrayList <NameValuePair>  parameters)	                       
 ```
-If you use `getRequest` without pagination the standard values for limit and offest will be used, you can look up them [here](https://github.com/eyeem/Public-API/#api-documentation).
+If you use `getRequest` without pagination the standard values for limit and offest will be used, you can look them up [here](https://github.com/eyeem/Public-API/#api-documentation).
 
 ###Response
 
@@ -89,7 +84,7 @@ The response is basically the same as in the API documentation described, only t
 	]
 }
 ```
-```
+``` json
 {
   "photos": {
     "offset": 0,
