@@ -1,0 +1,23 @@
+{
+  "users": {
+    "offset": 0,
+    "limit": 1,
+    "total": 31,
+    "items": [
+      {
+        "id": "4446",
+        "nickname": "team",
+        "fullname": "EyeEm Team",
+        "webUrl": "http://www.eyeem.com/u/team",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/50/74c1b3246e8c0f6a14935934e2674c814d431667.jpg",
+        "photoUrl": "http://www.eyeem.com/thumb/sq/200/74c1b3246e8c0f6a14935934e2674c814d431667.jpg",
+        "totalPhotos": 47,
+        "totalFollowers": 8290,
+        "totalFriends": 14,
+        "totalLikedAlbums": 4,
+        "totalLikedPhotos": 2138,
+        "description": "The official EyeEm Team account. Follow us for a behind the scenes view at EyeEm Studio from Berlin with <3"
+      }
+    ]
+  }
+}

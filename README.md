@@ -64,10 +64,10 @@ GET, PUT and POST requests are supported. Ask us for write access.
 To get the query object into a ArrayList use  `transfromQuery()`.
 
 ``` java
-	public HashMap<String, Object> getRequest( ArrayList <NameValuePair> parameters)
-	public HashMap<String, Object> getRequest( ArrayList <NameValuePair> parameters, EyeemPagination pagination)
-	public HashMap<String, Object> putRequest(ArrayList <NameValuePair>  parameters)
-	public HashMap<String, Object> postRequest(ArrayList <NameValuePair>  parameters)	                       
+public HashMap<String, Object> getRequest( ArrayList <NameValuePair> parameters)
+public HashMap<String, Object> getRequest( ArrayList <NameValuePair> parameters, EyeemPagination pagination)
+public HashMap<String, Object> putRequest(ArrayList <NameValuePair>  parameters)
+public HashMap<String, Object> postRequest(ArrayList <NameValuePair>  parameters)	                       
 ```
 If you use `getRequest` without pagination the standard values for limit and offest will be used, you can look them up [here](https://github.com/eyeem/Public-API/#api-documentation).
 

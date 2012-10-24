@@ -1,0 +1,105 @@
+{
+  "news": {
+    "offset": 0,
+    "limit": 10,
+    "total": 1171,
+    "unseen": 73,
+    "items": [
+      {
+        "id": "9154047",
+        "itemType": "user",
+        "newsType": "follow",
+        "userId": "205857",
+        "message": "Marina Elena Baroni is now following you",
+        "thumbUrl": "https://graph.facebook.com/1235128719/picture?type=square",
+        "updated": "2012-10-18T18:16:29+0200",
+        "seen": false
+      },
+      {
+        "id": "9153674",
+        "itemType": "photo",
+        "newsType": "like",
+        "photoId": "1019691",
+        "userId": "252767",
+        "message": "Gammi just liked one of your photos",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/100/97fb6fc4e94a6d14a9f471bf1e8961bc0f0a9e00-1348856256",
+        "updated": "2012-10-18T18:07:55+0200",
+        "seen": false
+      },
+      {
+        "id": "9153596",
+        "itemType": "photo",
+        "newsType": "like",
+        "photoId": "1051335",
+        "userId": "252767",
+        "message": "Gammi just liked one of your photos",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/100/c12861f01310502e575afa19d95cd7aa086c35c5-1349359909",
+        "updated": "2012-10-18T18:06:21+0200",
+        "seen": false
+      },
+      {
+        "id": "9153574",
+        "itemType": "photo",
+        "newsType": "like",
+        "photoId": "1101949",
+        "userId": "252767",
+        "message": "Gammi just liked one of your photos",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/100/0c981462b9c6c52e45c330aaa93aa0aef298badf-1350151099",
+        "updated": "2012-10-18T18:05:58+0200",
+        "seen": false
+      },
+      {
+        "id": "9153566",
+        "itemType": "photo",
+        "newsType": "like",
+        "photoId": "1101617",
+        "userId": "252767",
+        "message": "Gammi just liked one of your photos",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/100/8ef4905055b80308f6b40a4bce50c7b656f98e34-1350147892",
+        "updated": "2012-10-18T18:05:55+0200",
+        "seen": false
+      },
+      {
+        "id": "9151433",
+        "itemType": "user",
+        "newsType": "fbFriend",
+        "userId": "2840",
+        "message": "Your Facebook friend g g is now on EyeEm. Check out their photos!",
+        "thumbUrl": "https://graph.facebook.com/686292002/picture?type=square",
+        "updated": "2012-10-18T17:15:05+0200",
+        "seen": true
+      },
+      {
+        "id": "9137333",
+        "itemType": "user",
+        "newsType": "twFriend",
+        "userId": "269947",
+        "message": "Your Twitter friend gfeagre is now on EyeEm. Check out their photos!",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/50/default_profile.jpg",
+        "updated": "2012-10-18T11:15:45+0200",
+        "seen": true
+      },
+      {
+        "id": "9103730",
+        "itemType": "user",
+        "newsType": "twFriend",
+        "userId": "268732",
+        "message": "Your Twitter friend Marina Pla is now on EyeEm. Check out their photos!",
+        "thumbUrl": "https://graph.facebook.com/1048836891/picture?type=square",
+        "updated": "2012-10-17T18:00:55+0200",
+        "seen": false
+      },
+      {
+        "id": "9095167",
+        "itemType": "photo",
+        "newsType": "like",
+        "photoId": "1101617",
+        "userId": "241026",
+        "message": "Svenja Baumgärtner just liked one of your photos",
+        "thumbUrl": "http://www.eyeem.com/thumb/sq/100/8ef4905055b80308f6b40a4bce50c7b656f98e34-1350147892",
+        "updated": "2012-10-17T14:14:19+0200",
+        "seen": false
+      }
+    ]
+  }
+}
