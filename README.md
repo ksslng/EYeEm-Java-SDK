@@ -8,7 +8,7 @@ Please read first our main [API documentation](https://github.com/eyeem/Public-A
 ## Getting Started
 ***
 
-1. Register your app at [EyeEm](http://www.eyeem.com/developers)
+1. Register your app at [EyeEm](http://www.eyeem.com/developers/myapps)
 2. open the properties of your project, go on Android, add the library EyeEm Android SDK.
 3. To initialize the API use ```new EyeEmAPI(String clientId);``` 
 4. Add `<uses-permission android:name="android.permission.INTERNET" />` to your AndroidMainfest.xml file. 
