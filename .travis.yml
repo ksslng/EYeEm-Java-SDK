@@ -1,4 +1,6 @@
 language: java
+notifications:
+  email: false
 before_install:
   # download the latest android sdk and unzip
   - wget http://dl.google.com/android/android-sdk_r20.0.3-linux.tgz
