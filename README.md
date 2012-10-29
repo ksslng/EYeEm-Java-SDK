@@ -159,6 +159,7 @@ public String urlFromPathForPhotoWithSquareSize(String urlPath, int imageSize)
 For feedback, questions, complaints and props, you can get in touch with us at [api@eyeem.com](mailto:api@eyeem.com) or [@eyeemapi](http://twitter.com/eyeemapi) on Twitter.
 
 
+
 ##License
 ***
 EyeEm Android SDK is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
