@@ -29,6 +29,7 @@ If you want to use OAuth authentication you have to set the redirect_uri of your
 
 2. Extend the activity, where you want to authorize the user with `EyeemConnect`.
 
+
 Now you are ready to go.
 
 ##How to use it
