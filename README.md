@@ -1,9 +1,9 @@
-[![Build Status](https://secure.travis-ci.org/ksslng/EYeEm-Java-SDK.png)](http://travis-ci.org/ksslng/EYeEm-Java-SDK)
-# EyeEm Android SDK
+
+# EyeEm Android SDK [![Build Status](https://secure.travis-ci.org/ksslng/EYeEm-Java-SDK.png)](http://travis-ci.org/ksslng/EYeEm-Java-SDK)
 ***
 
 This is the first interation of our Android wrapper. The minimum SDK level is 7.
-Please read first our main [API documentation](https://github.com/eyeem/Public-API#eyeem-api).
+Please read first our main [API documentation](https://github.com/eyeem/Public-API#eyeem-api).     
 
 
 ## Getting Started
