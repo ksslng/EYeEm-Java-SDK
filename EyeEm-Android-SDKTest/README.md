@@ -153,11 +153,6 @@ public String urlFromPathForPhotoWithHeight(String urlPath, int height)
 public String urlFromPathForPhotoWithSquareSize(String urlPath, int imageSize)
 ```
 
-##How to import and test
-***
-
-It's based on Maven, so you can easily import it in your IDE with the respective Maven plugin and the Maven Android Plugin. It will handle the dependencies. The testing uses Robolectric framework to test it, for example in [Eclipse](http://pivotal.github.com/robolectric/eclipse-quick-start.html#create_a_test_run_configuration).
-
 ##Contact
 ***
 
