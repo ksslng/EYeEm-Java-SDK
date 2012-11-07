@@ -47,7 +47,6 @@ public class MainActivity extends EyeemConnect {
     }
     private OnClickListener buttonListener = new OnClickListener() { 
 
-		@Override
 		public void onClick(View view) {
 			loginToEyeEm();
 		} 

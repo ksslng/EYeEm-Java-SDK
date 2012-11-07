@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="libs/hamcrest.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/maps.jar"/>
+	<classpathentry kind="lib" path="libs/robolectric-with-dependencies.jar"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="gen"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EyeEm-Android-SDK"/>
+	<classpathentry kind="lib" path="/Users/sebi/android-sdks/platforms/android-16/android.jar"/>
+	<classpathentry kind="src" output="bin/classes" path="src">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

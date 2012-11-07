@@ -1,8 +1,9 @@
-# EyeEm Android SDK
+
+# EyeEm Android SDK [![Build Status](https://secure.travis-ci.org/ksslng/EYeEm-Java-SDK.png)](http://travis-ci.org/ksslng/EYeEm-Java-SDK)
 ***
 
 This is the first interation of our Android wrapper. The minimum SDK level is 7.
-Please read first our main [API documentation](https://github.com/eyeem/Public-API#eyeem-api).
+Please read first our main [API documentation](https://github.com/eyeem/Public-API#eyeem-api).     
 
 
 ## Getting Started
@@ -152,6 +153,11 @@ public String urlFromPathForPhotoWithWidth(String urlPath,  int width)
 public String urlFromPathForPhotoWithHeight(String urlPath, int height)
 public String urlFromPathForPhotoWithSquareSize(String urlPath, int imageSize)
 ```
+
+##How to import and test
+***
+
+It's based on Maven, so you can easily import it in your IDE with the respective Maven plugin and the Maven Android Plugin. It will handle the dependencies. Of course you can also use it without Maven. The testing uses Robolectric framework to test it, for example in [Eclipse](http://pivotal.github.com/robolectric/eclipse-quick-start.html#create_a_test_run_configuration).
 
 ##Contact
 ***
